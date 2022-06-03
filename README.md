@@ -12,6 +12,6 @@ apply = TRUE
 
 ## aabh_funs_specified.rstheme
 
-A theme for RStudio that emphasizes function names, wrappers, and operators. Designed to direct workflow and facilitate debugging with ease. Adapted from [Abdal Black Hackers](https://github.com/ProfShafiei/Abdal-Black-Hackers/blob/master/Abdal%20Black%20Hackers.tmTheme)
+A theme for RStudio that emphasizes function names, wrappers, and operators. Designed to direct workflow and facilitate debugging with ease. Adapted from [Abdal Black Hackers](https://github.com/ProfShafiei/Abdal-Black-Hackers)
 
 ![Example](https://github.com/noahsilver-are/R-Studio-Custom-Themes/blob/master/aabh_funs_specified/aabh_funs_specified_example.PNG)
