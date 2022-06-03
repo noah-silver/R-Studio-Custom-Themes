@@ -3,4 +3,4 @@ Custom rsthemes by Noah Silver [@noahsilver12](https://www.twitter.com/noahsilve
 
 Apply themes using:
 
-```rstudioapi::addTheme("http://your-theme-url/", apply = TRUE)```
+```rstudioapi::addTheme("http://{theme-url}/", apply = TRUE)```
