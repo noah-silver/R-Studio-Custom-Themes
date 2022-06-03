@@ -1,5 +1,5 @@
 # R-Studio-Custom-Themes
-Custom rsthemes by [Noah Silver](https://taplink.cc/noahsilver)
+#### Custom rsthemes by [Noah Silver](https://taplink.cc/noahsilver)
 
 Apply themes using:
 
