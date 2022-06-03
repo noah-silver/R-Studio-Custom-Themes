@@ -4,7 +4,10 @@ Custom rsthemes by Noah Silver [@noahsilver12](https://www.twitter.com/noahsilve
 Apply themes using:
 
 ```
-rstudioapi::addTheme("https://raw.githubusercontent.com/noahsilver-are/R-Studio-Custom-Themes/master/{theme-folder}/{theme-name}/", apply = TRUE)
+rstudioapi::addTheme(
+"https://raw.githubusercontent.com/noahsilver-are/R-Studio-Custom-Themes/master/{theme-folder}/{theme-name}/", 
+apply = TRUE
+)
 ```
 
 ## aabh_funs_specified.rstheme
