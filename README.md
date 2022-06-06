@@ -5,7 +5,7 @@ Apply themes using:
 
 ```r
 rstudioapi::addTheme(
-"https://raw.githubusercontent.com/noahsilver-are/R-Studio-Custom-Themes/master/{theme-folder}/{theme-name.rstheme}/", 
+"https://raw.githubusercontent.com/noahsilver-are/R-Studio-Custom-Themes/master/{theme-folder}/{theme-name}.rstheme", 
 apply = TRUE
 )
 ```
